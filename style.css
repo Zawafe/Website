@@ -717,3 +717,6 @@ h3.my-profession{
         text-decoration: none;
     }
 }
+.g:hover{
+    background-color: red;
+}
